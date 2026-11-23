@@ -231,7 +231,7 @@ slash123-corporate/
 * **Collaborator (設計師與協同人員)**：`collab-slash123-corporate@aegis.expert`
 * **QA Lead (品質驗收與閘門簽核)**：`qa-slash123-corporate@aegis.expert`
 * **Repo Admin (權限控管與發布授權)**：`admin-slash123-corporate@aegis.expert`
-* **全域資安應急小組 (CSIRT)**：`github-security@wonderland.center`
+* **全域資安應急小組 (CSIRT)**：`github-security@wonderland.ngo`
 
 ---
 *文件編號：`CIS-S13-CORP-2026` | 歸屬實體：斜槓一二三 / Slash123（獨立法人機構；完整法定名稱 [暫定]／[待確認]）*
